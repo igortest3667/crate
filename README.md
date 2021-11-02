@@ -9,7 +9,6 @@
 - Written in ES6+ using Babel + Webpack
 - Designed using Adobe Experience Design. Preview it [here](https://xd.adobe.com/view/a662a49f-57e7-4ffd-91bd-080b150b0317/).
 
-
 ## Features
 - Modular and easily scalable code structure
 - Emphasis on developer experience
