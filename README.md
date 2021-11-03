@@ -22,7 +22,6 @@
 - Server side rendering
 - Multi-package setup and dev scripts for an automated dev experiance
 
-
 ## Useful for
 - Developers with basic knowledge on React exploring advance React projects
 - Developers learning React Native
@@ -31,7 +30,6 @@
 - Starter application for Mobile and Web along with SSR
 - Multi-package scripts
 - Sample project with combination of all above
-
 
 ## Screenshots and GIFs
 Click on image to view fullscreen and zoom
